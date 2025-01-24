@@ -1,0 +1,23 @@
+[
+    {
+        "company":"佐翼科技 DroxoTech",
+        "company_logo":"/assets/droxo_logo.jpg",
+        "job_type":"全職",
+        "job_period":"2022.08 - 現職",
+        "title_1":"軟韌體研發部門組長",
+        "period_1":"2024.05 - 現職",
+        "descripe_1" : "統整與收斂軟體與韌體開發方向，建立公司軟韌體統一開發規範。;建立SMART評核原則，輔佐上司量化部門工程師工作狀況。;領導軟體與韌體部門共8位同仁。",
+        "title_2":"軟體研發工程師",
+        "period_2":"2022.08 - 2024.05",
+        "descripe_2" : "負責開發邊緣電腦程式(Jetson nano、Jetson Agx series)\\(Linux、Jetpack)，並實現最佳化執行表現;執行Tensorflow模型最佳化成onnx模型，並優化於邊緣式電腦執行效率;負責開發Ros2 機器人程式(如感測器資訊接收發、TF編制、DDS應用等);負責開發2D、3D光達應用(光達slam、3D點雲建模、光達資訊處理等);負責開發載具平面定位模組(光達Scan-to-map、影像重定位、UWB、GPS等);負責開發載具圓柱體、立面定位模組;負責開發載具導航功能(Nav2);載具資料與前後端拋接處理(API、MQTT等);載具資料與底層控制資料拋接(利用RS485、Ethernet、UART傳輸資料至STM32);撰寫kotlin開發載具app，執行資訊拋入app進行監控;負責建置載具資訊拋接VM，並透過4G/5G實現資訊拋接功能;Git版本控制建立"
+    },
+    {
+        "company":"米菲多媒體 Mifly",
+        "company_logo":"/assets/mifly_logo.jpg",
+        "job_type":"實習",
+        "job_period":"2019.04 - 2019.10",
+        "title_1":"電腦視覺與影像辨識工程師",
+        "period_1":"2019.04 - 2019.10",
+        "descripe_1" : "接觸AR/VR相關Project，並深入研究ios系統與Arkit相關API。;研究移植深度學習模型於ios硬體中開發與應用。;設計相關AR project UI介面"
+    }
+]

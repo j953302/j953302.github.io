@@ -1,0 +1,13 @@
+[
+    {
+        "degree":"M.S. in Civil Engineering",
+        "degree_logo":"/assets/ntu.png",
+        "school":"National Taiwan University",
+        "job_period":"2020.08 - 2022.06",
+        "descripes": [
+                    {
+                        "descripe": "Overall GPA: 3.93/4.30.;Master's thesis：[Human body geometry extraction and motion analysis based on surveillance camera images](https://hdl.handle.net/11296/m2c882);Drone inspection for port terminals, responsible for developing object recognition models for the port area and programming autonomous drone navigation.;During my studies, I acquired professional knowledge in GPS, photogrammetry, and spatial positioning."
+                    }
+                ]
+    }
+]

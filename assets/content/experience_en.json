@@ -1,0 +1,24 @@
+[
+    {
+        "company":"佐翼科技 DroxoTech",
+        "company_logo":"/assets/droxo_logo.jpg",
+        "job_type":"Full-time",
+        "job_period":"2022.08 - present",
+        "title_1":"Head of Software and Firmware Development Department",
+        "period_1":"2024.05 - present",
+        "descripe_1" : "Consolidate and streamline software and firmware development directions, establish unified development guidelines for company software and firmware.;Establish SMART evaluation principles to assist supervisors in quantifying engineers' work performance.;Lead a team of 8 members in the software and firmware department.",
+        "title_2":"Software Research & Development Engineer",
+        "period_2":"2022.08 - 2024.05",
+        "descripe_2" : "Responsible for developing edge computing programs (Jetson nano, Jetson AGX series) (Linux, Jetpack) and optimizing execution performance.; Implement TensorFlow model optimization into onnx models and optimize execution efficiency on edge computers.; Responsible for developing ROS2 robot programs (e.g., sensor data transmission, TF setup, DDS applications, etc.); Responsible for developing 2D and 3D LiDAR applications (LiDAR SLAM, 3D point cloud modeling, LiDAR data processing, etc.); Responsible for developing vehicle planar localization modules (LiDAR scan-to-map, visual re-localization, UWB, GPS, etc.); Responsible for developing vehicle cylindrical and vertical localization modules.; Responsible for developing vehicle navigation functionality (Nav2).; Handle vehicle data transmission between front-end and back-end (API, MQTT, etc.); Handle vehicle data communication with the underlying control data (using RS485, Ethernet, UART to transmit data to STM32).; Write Kotlin to develop a vehicle app for monitoring information.; Responsible for setting up vehicle data transmission VM and implementing data transmission via 4G/5G."
+    },
+    {
+        "company": "Mifly",
+        "company_logo": "/assets/mifly_logo.jpg",
+        "job_type": "Internship",
+        "job_period": "Apr 2019 - Oct 2019",
+        "title_1": "Computer Vision and Image Recognition Engineer",
+        "period_1": "Apr 2019 - Oct 2019",
+        "descripe_1": "Engaged in AR/VR-related projects, with in-depth research on iOS systems and ARKit-related APIs.; Researched porting deep learning models to iOS hardware for development and application.; Designed UI interfaces for AR projects."
+
+    }
+]
